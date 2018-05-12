@@ -1,10 +1,16 @@
 _repo: Germany-s-Fighting-Machine-Her-Army-her-Navy-her-Airships-and-Why-She-Arrayed-Them-Against-th__51026
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51026-h/images/front_cover.jpg
 creator:
   author:
     agent_name: Henderson, Ernest Flagg
     gutenberg_agent_id: '46202'
     url: http://www.gutenberg.org/2009/agents/46202
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51026#Germany-s-Fighting-Machine-Her-Army-her-Navy-her-Airships-and-Why-She-Arrayed-Them-Against-th_
 gutenberg_issued: '2016-01-24'
 gutenberg_type: Text
 identifiers:
